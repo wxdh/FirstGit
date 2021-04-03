@@ -1,1 +1,1 @@
-Hello there my name is Derek!
+Hello my name is Derek Sirp! I have edited this message as requested, and now committed the new changes to the git repo!
